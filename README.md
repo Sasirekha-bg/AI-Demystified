@@ -34,16 +34,3 @@
 
 ---
 
-## Installation
-
-Follow these steps to set up the project locally:
-
-### Prerequisites
-- Python 3.8 or higher
-- Qroq API key (if applicable)
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ai-demystified.git
-   cd ai-demystified
